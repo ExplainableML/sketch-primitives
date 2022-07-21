@@ -1,7 +1,7 @@
 # Abstracting Sketches through Simple Primitives
 This is the official PyTorch code for our ECCV 2022 paper on Abstracting Sketches through Simple Primitives. It allows training and testing of our Primitive Matching Network (PMN) on Quickdraw, ShoeV2 and ChairV2 datasets.
 
-![PMN Teaser](./assets/PMN_teaser.svg)
+![PMN Teaser](./assets/PMN_teaser.png)
 
 
 ## Installation
