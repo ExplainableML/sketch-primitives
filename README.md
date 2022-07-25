@@ -10,7 +10,7 @@ All Python dependencies can be installed into a conda environment with the provi
 1. Clone the repository
 ```shell
 git clone https://github.com/ExplainableML/sketch-primitives.git
-cd rdtc
+cd sketch-primitives
 ```
 2. Create conda environment
 ```shell
