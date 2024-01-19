@@ -15,7 +15,7 @@ All Python dependencies can be installed into a conda environment with the provi
 git clone https://github.com/ExplainableML/sketch-primitives.git
 cd sketch-primitives
 ```
-2. Create conda environment
+2. Create conda environment (you can try to use `environment-latest.yml` if you want to use the latest PyTorch version)
 ```shell
 conda env create -f environment.yml
 ```

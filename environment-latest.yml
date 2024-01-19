@@ -1,0 +1,19 @@
+name: sketch-primitives
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+  - defaults
+dependencies:
+  - matplotlib
+  - numpy
+  - pillow
+  - pip
+  - python
+  - pytorch
+  - pytorch-cuda
+  - tar
+  - tensorboard
+  - torchvision
+  - tqdm
+  - wget
